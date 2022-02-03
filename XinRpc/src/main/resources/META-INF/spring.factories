@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+XINXINRPC.com.xin.MyRpc.config.ComponentScanConfig
+
